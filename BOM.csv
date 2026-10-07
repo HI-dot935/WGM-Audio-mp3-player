@@ -1,21 +1,22 @@
-BOM (Bill of materials)
-Type C booster charging module- Rs59
-https://robu.in/product/type-c-usb-5v-2a-step-up-boost-converter-with-usb-charger/ 
+##Bill of Materials (BOM)
 
-BT201 Module- Rs279
-https://robu.in/product/bt201-dual-mode-5-0-bt-receiver-module-lossless-audio-power-amplifier-board/
 
-2000mah battery- Rs329
-https://robu.in/product/nova-604060-2000mah-3-7v-micro-lipo-battery-pack/
+| Component                                                                                                                                                                                      | Quantity | Price (INR) | Type     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------: | -------- |
+| [Type-C 5V 2A Boost Converter with Charging](https://robu.in/product/type-c-usb-5v-2a-step-up-boost-converter-with-usb-charger/)                                                               |        1 |         ₹59 | Required |
+| [BT201 Bluetooth 5.0 Audio Module](https://robu.in/product/bt201-dual-mode-5-0-bt-receiver-module-lossless-audio-power-amplifier-board/)                                                       |        1 |        ₹279 | Required |
+| [2000mAh 3.7V Li-Po Battery](https://robu.in/product/nova-604060-2000mah-3-7v-micro-lipo-battery-pack/)                                                                                        |        1 |        ₹329 | Required |
+| [Slide Switch](https://robu.in/product/1-month-warranty-256/)                                                                                                                                  |        1 |          ₹8 | Required |
+| [boAt BassHeads 100 Earphones](https://www.boat-lifestyle.com/products/bassheads-100)                                                                                                          |        1 |        ₹349 | Optional |
+| [EVM 64GB USB 2.0 Pen Drive](https://www.flipkart.com/evm-evmpdv-64gb-64-gb-pen-drive-compatible-desktop-computer-laptop-television-audio-player-mobile-usb-2-0-metal-case/p/itm6a1645170edf9) |        1 |        ₹689 | Optional |
 
-Slide switch- Rs8
-https://robu.in/product/1-month-warranty-256/
+### Cost Breakdown
 
-Earphones- Rs349 ( if u have one already not needed) I need to get new ones coz the old ones one ear doesn't works.
-https://www.boat-lifestyle.com/products/bassheads-100?variant=20289086685282&country=IN&currency=INR&srsltid=AU7gw4UrZhd_YQByYB7CicneW289fmCHEJUTlnRFltVPj_gg3UFfgwmdyvg
+* **Base build:** ₹675 / $8
+* **Optional items:** ₹1,038 / $11-$12
+* **Complete build:** ₹1,713 / $18-$19(I need this)
 
-64GB pendrive- Rs689 ( if u have one already not needed) sadly I need one:( .
-https://www.flipkart.com/evm-evmpdv-64gb-64-gb-pen-drive-compatible-desktop-computer-laptop-television-audio-player-mobile-usb-2-0-metal-case/p/itm6a1645170edf9?pid=ACCGSD3XPMACHGCX&lid=LSTACCGSD3XPMACHGCX5M05EN&marketplace=FLIPKART&store=6bo%2Fjdy%2Fuar&srno=b_1_2&otracker=browse&fm=organic&iid=5ab8a93a-f71d-4d5f-82e8-fa539801a285.ACCGSD3XPMACHGCX.SEARCH&ppt=browse&ppn=browse&ssid=j3wd6zcf3k0000001790950794711&ov_redirect=true&ov_redirect=true
+The earphones and USB drive are optional if you already own compatible alternatives(means an earphone and pendrive) . I included them in the list because I needed to purchase both for my own build.
 
-Without optionals (earphones and pendrive) Total- Rs675/$8
-With optionals Total- Rs1704/$18-$19
+*Prices are approximate and may change depending on the seller, availability, and shipping charges. The total does not include shipping or other additional costs.*
+
