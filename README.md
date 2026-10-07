@@ -8,6 +8,9 @@ This device is an mp3 player which works by plugging in an sd card or pendrive (
 
 -It's useful because obviously not everyone can pay for spotify or apple music or any music app premium and you can't have net coverage and speed in all corners of the world so just carry this simple music no interuptions no ads.
 
+-A note that there is no need of any firmware because the BT201 module has already everything on the chips on it and there's no need to make any firmware unless you are     adding an esp32-c3 with a display (your choice depends on the functions you want I may use a 0.96 led display to see the names of the song for touch controls if I do in 
+ future I would prefer a TFT display of 1.8 or 2.8inch size it has touch functions then I may have to code a firmware for the same). So no firmware is needed right now.
+
 Why I made this-
 So because yeah I felt music apps are premium and costly aren't much affordable then I though oh wait I am an hack clubber I gotta lock in to come up with an idea or a device to solve my problem maybe this device can solve many other peoples problems also. Took my idea searched for modules got this studied a bit on datasheets then designed the pcb the case and made a repo to share this idea with the world also.
 
