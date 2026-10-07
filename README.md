@@ -2,7 +2,7 @@
 So basically
 This device is an mp3 player which works by plugging in an sd card or pendrive (supports upto 128gb) which got songs you love obviously we all do love songs.
 
--Just need an earphone plug it in to jump into the vibes. This device got 2000mah battery enough to last you more than 20+hrs because the consumption is 60ma and 2000 divided by 60 is 33.3 which means 33.3hours of battery life. 
+-Just need an earphone plug it in to jump into the vibes. This device got 2000mah battery enough to last you more than 30+hrs because the consumption is 60ma and 2000 divided by 60 is 33.3 which means nearly 33.3hours of battery life.
 
 -It takes about an hour and half to full charge and got battery indicator so that you don't have to worry about the time and charing .
 
