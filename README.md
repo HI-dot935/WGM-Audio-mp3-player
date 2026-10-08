@@ -29,3 +29,18 @@ Here comes the schematic (Made in Ki-Cad)
 Then obviously the pcb (Made in Ki-Cad)
 <img width="1338" height="668" alt="PCB" src="https://github.com/user-attachments/assets/f17eede4-77b5-45df-814c-bed728e60e68" />
 
+# WHY NO FIRMWARE NEEDED DETAILED EXPLANATION 
+So basically I have searched and used ai and referred data to prove that for current base line model of this project I don't need one. Anyone will only when they add some more functions an esp32 and a display. 
+
+-The BT201 is a plug-and-play, standalone module built on the KT1025A/B SoC. It has its own integrated 32-bit MCU and hardware audio decoder, meaning it works completely out of the box for basic tasks.
+
+
+## Standalone Capabilities (No Code Required)
+
+-When you power the module with 3.3V–5V, it handles the following functions automatically:
+
+• Bluetooth Receiver: It broadcasts as "BT201-AUDIO". You can pair your phone directly to it to stream music or handle hands-free phone calls.
+
+• Local Media Player: If you plug in a Micro SD (TF) Card or a USB Flash Drive, it automatically detects the storage and starts playing your audio files (MP3 & WAV).
+
+• Onboard Hardware Controls:  BT201 breakdown boards include Physical Buttons (PREV/V-, NEXT/V+, PLAY/PAUSE, MODE). You can skip tracks, adjust volume, and switch modes without a single line of code.
