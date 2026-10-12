@@ -46,3 +46,6 @@ So basically I have searched and used ai and referred data to prove that for cur
 • Local Media Player: If you plug in a Micro SD (TF) Card or a USB Flash Drive, it automatically detects the storage and starts playing your audio files (MP3 & WAV).
 
 • Onboard Hardware Controls:  BT201 breakdown boards include Physical Buttons (PREV/V-, NEXT/V+, PLAY/PAUSE, MODE). You can skip tracks, adjust volume, and switch modes without a single line of code.
+
+# Note for 3D Printed Case-
+### The material I used for printing is PLA but if you want more sturdy case and temperature resistant so that while soldering also the case doesn't melts slowly use ABS if you have or use print services because as per me the ABS is the best material for temperature resistant but only if you are soldering after installing everything in the case or else PLA is also good.
