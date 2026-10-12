@@ -13,6 +13,7 @@ This device is an mp3 player which works by plugging in an sd card or pendrive (
 
 Why I made this-
 So because yeah I felt music apps are premium and costly aren't much affordable then I though oh wait I am an hack clubber I gotta lock in to come up with an idea or a device to solve my problem maybe this device can solve many other peoples problems also. Took my idea searched for modules got this studied a bit on datasheets then designed the pcb the case and made a repo to share this idea with the world also.
+Also as a student in school something I don't like is the restrictions on devices, musics, and phones so I made this to enjoy music anytime even in school it doesn't have a display right now due to which it can't be classified as a digital gadget stuff because pretty much these days anything with a display is a digital gadget so found a loophole.
 
 Hope Y'all enjoy this repo!!
 
