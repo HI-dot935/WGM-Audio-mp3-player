@@ -22,7 +22,7 @@ A 3D view of the pcb (Made in Ki-Cad)
 
 Here's my case (Made in Tinkercad)
 
-<img width="610" height="338" alt="Case" src="https://github.com/user-attachments/assets/edd9b998-8c24-4a83-9b0d-bd0f89d01525" />
+<img width="766" height="384" alt="Case" src="https://github.com/user-attachments/assets/3cbb42b0-7412-452b-883e-f89471cc2ebc" />
 
 Here comes the schematic (Made in Ki-Cad)
 <img width="1357" height="611" alt="Schematic" src="https://github.com/user-attachments/assets/2539e39c-fc3e-4a95-a896-baa973eb0fcf" />
