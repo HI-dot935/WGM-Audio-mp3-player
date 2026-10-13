@@ -49,3 +49,6 @@ So basically I have searched and used ai and referred data to prove that for cur
 
 # Note for 3D Printed Case-
 ### The material I used for printing is PLA but if you want more sturdy case and temperature resistant so that while soldering also the case doesn't melts slowly use ABS if you have or use print services because as per me the ABS is the best material for temperature resistant but only if you are soldering after installing everything in the case or else PLA is also good.
+
+## Important Build Note
+### You must also connect the battery with a switch to the (in) of charging module in series because as it's a booster module we don't want our battery to die trying to power the booster module 24/7 so add a switch between the battery and charging module. When you wanna charge the battery turn the switch on for battery only but off for the (out) to the bt201 module and when you wanna listen to music turn both the switch on or else both off and Bat(in) to charging module on when charging the battery.
